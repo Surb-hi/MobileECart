@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a39dc9-45ca-4620-868a-d84443a8dcb8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28dVazT11CD4XDqgpA1Enp30R6k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="TestNG.HotDeals">
+    <configuration name="HotDeals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mobilexcart." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.x_cart.mobile.Testsuits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.x_cart.mobile.Testsuits" />
+      <option name="MAIN_CLASS_NAME" value="com.x_cart.mobile.Testsuits.HotDeals" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotDeals" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobilexcart." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.x_cart.mobile.Testsuits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.x_cart.mobile.Testsuits" />
+      <option name="MAIN_CLASS_NAME" value="com.x_cart.mobile.Testsuits.HotDeals" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotDeals.verifySaleProductsArrangeAlphabetically" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobilexcart." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.x_cart.mobile.Testsuits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.x_cart.mobile.Testsuits" />
+      <option name="MAIN_CLASS_NAME" value="com.x_cart.mobile.Testsuits.HotDeals" />
+      <option name="METHOD_NAME" value="verifySaleProductsArrangeAlphabetically" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotDeals.verifySaleProductsPriceArrangeLowToHigh" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobilexcart." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.x_cart.mobile.Testsuits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.x_cart.mobile.Testsuits" />
+      <option name="MAIN_CLASS_NAME" value="com.x_cart.mobile.Testsuits.HotDeals" />
+      <option name="METHOD_NAME" value="verifySaleProductsPriceArrangeLowToHigh" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shopping.verifyThatUserShouldPlaceOrderSuccessfullyForOllieTheAppControlledRobot" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobilexcart." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.x_cart.mobile.Testsuits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.x_cart.mobile.Testsuits" />
+      <option name="MAIN_CLASS_NAME" value="com.x_cart.mobile.Testsuits.Shopping" />
+      <option name="METHOD_NAME" value="verifyThatUserShouldPlaceOrderSuccessfullyForOllieTheAppControlledRobot" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HotDeals" />
+        <item itemvalue="TestNG.Shopping.verifyThatUserShouldPlaceOrderSuccessfullyForOllieTheAppControlledRobot" />
+        <item itemvalue="TestNG.HotDeals.verifySaleProductsArrangeAlphabetically" />
+        <item itemvalue="TestNG.HotDeals.verifySaleProductsPriceArrangeLowToHigh" />
+        <item itemvalue="JUnit.HotDeals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a39dc9-45ca-4620-868a-d84443a8dcb8" name="Changes" comment="" />
+      <created>1651546519615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651546519615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../mobilexcart/src/test/java/com/x_cart/mobile/Testsuits/Shopping.java</url>
+          <line>16</line>
+          <properties class="com.x_cart.mobile.Testsuits.Shopping" method="verifyThatUserShouldPlaceOrderSuccessfullyForOllieTheAppControlledRobot">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
